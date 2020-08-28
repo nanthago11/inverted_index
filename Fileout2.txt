@@ -1,0 +1,32 @@
+will	d2	d5	
+whitespace	d3	
+title	d2	
+though	d4	
+text	d5	
+tabs	d3	
+tab	d2	
+statements	d5	
+space	d3	
+single	d2	
+separated	d2	
+returns	d4	
+return	d5	
+rest	d3	
+need	d4	
+look	d4	
+line	d2	d4	
+languages	d4	d5	
+just	d3	
+insist	d5	
+five	d1	
+first	d1	
+entity	d4	
+easier	d3	
+documents	d1	d2	d3	
+document	d2	
+delineated	d5	
+confusing	d3	
+character	d2	
+carriage	d4	d5	
+block	d5	
+allow	d4	
